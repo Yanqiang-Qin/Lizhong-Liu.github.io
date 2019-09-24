@@ -4,22 +4,9 @@
   
   
   <entry>
-    <title>test2</title>
-    <link href="undefined2019/09/25/test2/"/>
-    <url>2019/09/25/test2/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>first blog</title>
-    <link href="undefined2019/09/22/first-blog/"/>
-    <url>2019/09/22/first-blog/</url>
+    <title>HPRP and Household Consumption</title>
+    <link href="undefined2019/09/22/HPRP/"/>
+    <url>2019/09/22/HPRP/</url>
     
     <content type="html"><![CDATA[<p>This is a test blog.</p>]]></content>
     
@@ -36,13 +23,76 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="undefined2019/09/21/hello-world/"/>
-    <url>2019/09/21/hello-world/</url>
+    <title>The Courage to Act</title>
+    <link href="undefined2019/02/28/courage/"/>
+    <url>2019/02/28/courage/</url>
+    
+    <content type="html"><![CDATA[<p>This a short review of the book <em>The Courage to Act: A Memoir of A Crisis and Its Aftermath</em> by Ben Bernanke.</p><ol><li><p>This book solves a lot of puzzles on central banking for me. The first one coming into my mind should be the “boundary issue”. On the one hand, central banks should maintain its nonpartisan stance so that it can “moves” the market objectively. On the other hand, it is also the responsibility of central bankers to coordinate the economic policies and make sure everything is in alignment of the policy targets. In addition, should we expect the central banks to foresee systematic risks and acts as a safety net when crises hit the economy?</p></li><li><p>It seems that the priority of monetary policy making is to consider what the change in policy could do to the market expectation. Quote Mr. Bernanke, 98% of the effectiveness of monetary policy depends on communication with the market. However, examples offered in the book (such as the implementation of quantitative easing and the rescue of )</p></li><li><p>I was always wondering if it is rational to use “cycle” to explain the booms and busts of literally every macroeconomic phenomenon, and use this line of logic to forecast the future. Does history really repeat itself? Mr. Bernanke did mention this question in his book, though he simply quoted Mark Twain that “history may rhyme, but does not repeat itself”. So now the question becomes: to what extent would history rhyme?</p></li><li><p>The fuses of crises often seem to be bank runs (though in different forms). So what is the root of crises? What makes the market panic at the very beginning? Is there a factor that can conclude these panics?</p></li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>short review</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Norse Mythology</title>
+    <link href="undefined2019/02/15/norse/"/>
+    <url>2019/02/15/norse/</url>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>short review</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Trumponomics</title>
+    <link href="undefined2019/01/29/trumponomics/"/>
+    <url>2019/01/29/trumponomics/</url>
+    
+    <content type="html"><![CDATA[<ol><li><p>This book solves a lot of puzzles on central banking for me. The first one coming into my mind should be the “boundary issue”. On the one hand, central banks should maintain its nonpartisan stance so that it can “moves” the market objectively. On the other hand, it is also the responsibility of central bankers to coordinate the economic policies and make sure everything is in alignment of the policy targets. In addition, should we expect the central banks to foresee systematic risks and acts as a safety net when crises hit the economy?</p></li><li><p>It seems that the priority of monetary policy making is to consider what the change in policy could do to the market expectation. Quote Mr. Bernanke, 98% of the effectiveness of monetary policy depends on communication with the market. However, examples offered in the book (such as the implementation of quantitative easing and the rescue of )</p></li><li><p>I was always wondering if it is rational to use “cycle” to explain the booms and busts of literally every macroeconomic phenomenon, and use this line of logic to forecast the future. Does history really repeat itself? Mr. Bernanke did mention this question in his book, though he simply quoted Mark Twain that “history may rhyme, but does not repeat itself”. So now the question becomes: to what extent would history rhyme?</p></li><li><p>The fuses of crises often seem to be bank runs (though in different forms). So what is the root of crises? What makes the market panic at the very beginning? Is there a factor that can conclude these panics?</p></li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>short review</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>American Gods</title>
+    <link href="undefined2019/01/28/american-gods/"/>
+    <url>2019/01/28/american-gods/</url>
+    
+    <content type="html"><![CDATA[<ol><li><p>This book solves a lot of puzzles on central banking for me. The first one coming into my mind should be the “boundary issue”. On the one hand, central banks should maintain its nonpartisan stance so that it can “moves” the market objectively. On the other hand, it is also the responsibility of central bankers to coordinate the economic policies and make sure everything is in alignment of the policy targets. In addition, should we expect the central banks to foresee systematic risks and acts as a safety net when crises hit the economy?</p></li><li><p>It seems that the priority of monetary policy making is to consider what the change in policy could do to the market expectation. Quote Mr. Bernanke, 98% of the effectiveness of monetary policy depends on communication with the market. However, examples offered in the book (such as the implementation of quantitative easing and the rescue of )</p></li><li><p>I was always wondering if it is rational to use “cycle” to explain the booms and busts of literally every macroeconomic phenomenon, and use this line of logic to forecast the future. Does history really repeat itself? Mr. Bernanke did mention this question in his book, though he simply quoted Mark Twain that “history may rhyme, but does not repeat itself”. So now the question becomes: to what extent would history rhyme?</p></li><li><p>The fuses of crises often seem to be bank runs (though in different forms). So what is the root of crises? What makes the market panic at the very beginning? Is there a factor that can conclude these panics?</p></li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>short review</tag>
+      
+    </tags>
     
   </entry>
   
